@@ -11,3 +11,4 @@ twitter_username: Is bbt not enough? # DO NOT include the @ character, or else t
 github_username:  One cup of bbt please. # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
